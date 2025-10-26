@@ -1,0 +1,10 @@
+[
+  {
+    "name": "button",
+    "description": "A versatile button component with multiple variants"
+  },
+  {
+    "name": "card",
+    "description": "A card container component with header, content, and footer"
+  }
+]
